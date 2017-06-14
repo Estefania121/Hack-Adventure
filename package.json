@@ -13,5 +13,18 @@
     "express": "~4.15.2",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estefania121/Hack-Adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estefania121/Hack-Adventure/issues"
+  },
+  "homepage": "https://github.com/Estefania121/Hack-Adventure#readme"
 }
