@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  const context={
+  var context = {
     title: 'Profile',
     name:'Estefania',
     age:15,
@@ -12,6 +12,5 @@ router.get('/', function(req, res, next) {
   }
   res.render('profile', context);
 });
-
 
 module.exports = router;
