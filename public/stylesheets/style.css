@@ -3,6 +3,7 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+<<<<<<< HEAD
 h3 {
   color: #295ac4;
 }
@@ -28,3 +29,8 @@ background-color:white ;
 .dropdown:hover .dropdown-content {
     display: block;
 }*/
+=======
+a {
+  color: #00B7FF;
+}
+>>>>>>> 5cb9e8e2cf86b925909c236cdaa669c8e21a9fd2
